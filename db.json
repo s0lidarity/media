@@ -1,7 +1,75 @@
 {
-    "users": [
-        { "id": 1, "name": "Myra" }
-    ],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "f080",
+      "name": "Rita Keebler"
+    },
+    {
+      "id": "9c21",
+      "name": "Loren Pfannerstill"
+    },
+    {
+      "id": "aad4",
+      "name": "Francis Bogan"
+    },
+    {
+      "id": "2a41",
+      "name": "Ian Breitenberg"
+    },
+    {
+      "id": "61e0",
+      "name": "Ronnie Dietrich"
+    },
+    {
+      "id": "c669",
+      "name": "Karla Abshire"
+    }
+  ],
+  "albums": [
+    {
+      "id": "c1b0",
+      "userId": 1,
+      "title": "Rustic Rubber Pizza"
+    },
+    {
+      "id": "5367",
+      "userId": "f080",
+      "title": "Practical Soft Shoes"
+    },
+    {
+      "id": "0c92",
+      "userId": "aad4",
+      "title": "Refined Plastic Hat"
+    },
+    {
+      "id": "f54b",
+      "userId": "aad4",
+      "title": "Refined Metal Towels"
+    },
+    {
+      "id": "35c1",
+      "userId": "aad4",
+      "title": "Small Rubber Chicken"
+    },
+    {
+      "id": "0ccd",
+      "userId": 1,
+      "title": "Luxurious Metal Chicken"
+    },
+    {
+      "id": "4abf",
+      "userId": "9c21",
+      "title": "Ergonomic Granite Keyboard"
+    },
+    {
+      "id": "84ff",
+      "userId": "f080",
+      "title": "Electronic Bronze Chips"
+    }
+  ],
+  "photos": []
 }
